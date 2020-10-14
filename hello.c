@@ -5,10 +5,11 @@
  * @version	@$Revision$
  *
  * $Id$
+ * $Id$
  */
 
 #include "stdio.h"
 
 int main(int argc, char *argv[])
-  printf("Hello, world!!!");
+  printf("Hello, world!!!!");
 }
