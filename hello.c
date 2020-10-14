@@ -1,11 +1,12 @@
 /**
  * @file        hello.c
- * @author      @$Author$
- * @date	@$Date$
- * @version	@$Revision$
+ * @author      @$Author: Escender.Sary <escender.sary@weigandt-consulting.com> $
+ * @date	@$Date:   Wed Oct 14 20:31:04 2020 +0300 $
+ * @version	@$Revision: d7d4076c476e152dad2e9b9a86affdbd92e82a35 $
  *
- * $Id$
- * $Id$
+ * $Id: hello.c | Wed Oct 14 20:31:04 2020 +0300 | Escender.Sary  $
+ * $Id: hello.c | Wed Oct 14 20:31:04 2020 +0300 | Escender.Sary  $
+ * $Id: hello.c | Wed Oct 15 20:31:04 2020 +0300 | Escender.Sary  $
  */
 
 #include "stdio.h"
