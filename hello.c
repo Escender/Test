@@ -1,7 +1,7 @@
 /**
  * @file        hello.c
  * @author      @$Author: Escender $
- * @date        @$Date: 14 окт 2020 г. 22:50:29 $
+ * @date        @$Date: 15 окт 2020 г.  6:46:42 $
  * @version     @$Revision: d7d4076c476e152dad2e9b9a86affdbd92e82a35 $
  *
  * $Id: hello.c | Wed Oct 14 20:31:04 2020 +0300 | Escender.Sary  $
